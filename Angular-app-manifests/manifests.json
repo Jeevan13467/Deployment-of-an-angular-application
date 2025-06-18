@@ -1,7 +1,7 @@
 {
   "name": "My Angular App",
   "short_name": "AngularApp",
-  "start_url": "/angular-application/",
+  "start_url": "/angular-app/",
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
   "display": "standalone",
